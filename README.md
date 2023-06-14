@@ -6,8 +6,8 @@ I'm a Frontend developer, passionate about what I do. I like to create web appli
 
 ## 🛠 Skills
 
-| Frontend| Backend|Tools|
-| ----------------- || ----------------- ||------|
+| Frontend | Backend |Tools
+|----| |-----| |----| 
 
 
 
