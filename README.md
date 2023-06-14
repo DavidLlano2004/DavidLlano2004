@@ -10,14 +10,7 @@ I'm a Frontend developer, passionate about what I do. I like to create web appli
 |----| |-----| |----| 
 
 | Column1 | This is a long column name | Column3 |  |
-|--:|---------|:--:|:----|
-||         |  |         |
-|     |  |         |   a value      |
-||         |         |         |
-|     |         | This is a long value |       but why? |
-|     |         |         |         |
-|     |                                           |         | Here is something |
-|  |         |   |         |
+
 
 
 
